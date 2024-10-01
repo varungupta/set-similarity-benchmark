@@ -1,2 +1,2 @@
 # set-similarity-benchmark
-Benchmarking different algorithms for Jaccard Similarity Index in Python and Rust
+Benchmarking different algorithms for exact and approximate Jaccard Similarity Index
